@@ -2,4 +2,5 @@
 
 *Bem vindo a página de receitas:wave:*
 
-- Strogonoff de 
+- [Strogonoff de Frango](strogonoff.md)
+- 
